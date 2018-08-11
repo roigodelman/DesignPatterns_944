@@ -14,6 +14,8 @@ namespace Delegate
         {
             list = new List<IPersonalDetails>();
             detailList = new List<Details>();
+
+            //Test
         }
 
         public void Add(IPersonalDetails person)
